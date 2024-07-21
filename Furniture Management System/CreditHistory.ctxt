@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CreditHistory
+comment1.params=bankruptcies\ collections\ foreclosures\ delinquencies
+comment1.target=CreditHistory(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getBankruptcies()
+comment3.params=
+comment3.target=int\ getCollections()
+comment4.params=
+comment4.target=int\ getForeclosures()
+comment5.params=
+comment5.target=int\ getDelinquencies()
+numComments=6

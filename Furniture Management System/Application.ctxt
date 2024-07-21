@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Application
+comment1.params=applicationNumber\ borrower\ lender\ property
+comment1.target=Application(int,\ Borrower,\ Lender,\ Property)
+comment2.params=
+comment2.target=int\ getApplicationNumber()
+comment3.params=
+comment3.target=Borrower\ getBorrower()
+comment4.params=
+comment4.target=Lender\ getLender()
+comment5.params=
+comment5.target=Property\ getProperty()
+comment6.params=
+comment6.target=double\ gettotalAssets()
+comment7.params=
+comment7.target=Debts\ gettotaldebts()
+comment8.params=borrower
+comment8.target=double\ calculateTotalAssets(Borrower)
+numComments=9

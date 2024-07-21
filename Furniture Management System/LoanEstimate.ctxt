@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=LoanEstimate
+comment0.text=\r\n\ \ \ \ Applicant_Name\ (the\ Borrower's\ name)\r\n\ \ \ \ Loan_amount\r\n\ \ \ \ Loan_Term\r\n\ \ \ \ Interest_rate\r\n\ \ \ \ Monthly_Principal_AND_Interest\r\n\ \ \ \ Mortgage_Insurance\r\n\ \ \ \ Estimated_Escrow\r\n\ \ \ \ Estimated_Total_Monthly_Payment\ (Monthly_Principal_AND_Interest\ +\ Mortgage_Insurance\ +\ Estimated_Escrow)\r\n
+comment1.params=borrower\ loanAmount\ loanTerm\ interestRate\ monthlyPrincipalAndInterest\ mortgageInsurance\ estimatedEscrow
+comment1.target=LoanEstimate(Borrower,\ double,\ int,\ double,\ double,\ double,\ double)
+comment10.params=
+comment10.target=double\ calculateEstimatedTotalMonthlyPayment()
+comment2.params=
+comment2.target=java.lang.String\ getApplicantName()
+comment3.params=
+comment3.target=double\ getLoanAmount()
+comment4.params=
+comment4.target=int\ getLoanTerm()
+comment5.params=
+comment5.target=double\ getInterestRate()
+comment6.params=
+comment6.target=double\ getMonthlyPrincipalAndInterest()
+comment7.params=
+comment7.target=double\ getMortgageInsurance()
+comment8.params=
+comment8.target=double\ getEstimatedEscrow()
+comment9.params=
+comment9.target=double\ getEstimatedTotalMonthlyPayment()
+numComments=11

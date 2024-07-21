@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Property
+comment1.params=streetAddress\ expectedSalesPrice\ typesOfHome\ sizeOfProperty\ realEstateTaxes\ homeownerAssociationDues
+comment1.target=Property(java.lang.String,\ double,\ java.util.List,\ double,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getStreetAddress()
+comment3.params=
+comment3.target=double\ getExpectedSalesPrice()
+comment4.params=
+comment4.target=java.util.List\ getTypesOfHome()
+comment5.params=
+comment5.target=double\ getSizeOfProperty()
+comment6.params=
+comment6.target=double\ getRealEstateTaxes()
+comment7.params=
+comment7.target=double\ getHomeownerAssociationDues()
+numComments=8

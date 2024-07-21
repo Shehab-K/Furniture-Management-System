@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Assets
+comment1.params=bankAccounts\ RealProperty\ investments\ proceedsFromSaleOfHome\ giftedFunds
+comment1.target=Assets(java.util.List,\ java.lang.String,\ java.util.List,\ double,\ double)
+comment2.params=
+comment2.target=java.util.List\ getBankAccounts()
+comment3.params=
+comment3.target=java.lang.String\ getRealProperties()
+comment4.params=
+comment4.target=java.util.List\ getInvestments()
+comment5.params=
+comment5.target=double\ getProceedsFromSaleOfHome()
+comment6.params=
+comment6.target=double\ getGiftedFunds()
+comment7.params=
+comment7.target=double\ getTotalValue()
+numComments=8
